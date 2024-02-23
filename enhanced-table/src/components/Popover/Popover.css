@@ -1,0 +1,21 @@
+.popover-content {
+  position: absolute;
+  z-index: 3;
+  padding: 10px;
+  background-color: bisque;
+  border-radius: 10px;
+  box-shadow: 10px;
+}
+.submit-btn,
+.clear-btn {
+  width: 100%;
+}
+.clear-btn {
+  background-color: gray;
+  margin-top: 10px;
+}
+.submit-btn {
+  background-color: black;
+  margin-top:60px;
+  color: white;
+}

@@ -1,0 +1,13 @@
+Problem1:- 
+CSS ---> I have to make the table exactly at the centre 
+confused should i use table or normal component
+how to convert new date ----> mm-dd-yy (crested dateutils)
+i was facing difficulty in allowing the popover to float on other components
+i was facing difficlty in state management of all the filters (prop drilling) handled with context
+I was facing issue in difference of name used in filters and the state i created .I created a util function for the same .
+Facing issue how to store it in locastorage(column visibility)
+Facing issue for the state management of sorting 
+sol-->   sort: {
+   keyToSort: 'name',
+   direction: 'asc'
+  },

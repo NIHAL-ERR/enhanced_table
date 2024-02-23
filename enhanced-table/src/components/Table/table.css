@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.customer-name, .avatar {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  border-radius: 50%; 
+}
+.avatar-container {
+  display: flex;
+  flex-direction: row;
+}
+td{
+  height: 40px;
+}
